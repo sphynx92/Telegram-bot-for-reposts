@@ -44,7 +44,7 @@ DB_PATH=processed.db
    ```
 2. Start the bot:
    ```bash
-python admin_bot.py 
+   python admin_bot.py 
    ```
 
 
